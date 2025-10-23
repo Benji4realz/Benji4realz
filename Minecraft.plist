@@ -1,0 +1,30 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://www.dropbox.com/scl/fi/ii0pk3doixipx8ihuhli7/Minecraft.1.21.22.ipa?raw=1</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.minecraft.ipa</string>
+        <key>bundle-version</key>
+        <string>1.21.22</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Minecraft</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
